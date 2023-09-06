@@ -6,7 +6,7 @@ for (let i = 0; i < 5; i++) {
 }
 console.log(valor);
 
-for (let i = 0; i < array.length; i++) {
+for (let i = 0; i < valor.length; i++) {
     valorquad.push(valor[i]**2);
 }
 console.log(valorquad);
